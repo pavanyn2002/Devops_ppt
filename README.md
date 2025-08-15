@@ -7,4 +7,4 @@ Click the links below to view each presentation hosted via **GitHub Pages**.
 
 | Day  | Date       | Link |
 |------|------------|------|
-| Day 1 | 2025-08-14 | [View](https://pavanyn2002.github.io/presentationS/Devops_ppt/Day1_presentation.html)
+| Day 1 | 2025-08-14 | [View](https://www.edugeek.in/presentations/Day1_presentation.html)
